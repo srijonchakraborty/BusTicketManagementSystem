@@ -1,0 +1,13 @@
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\bin\Debug\Bus Management System.exe
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\bin\Debug\Bus Management System.pdb
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\Bus_Management_System.Properties.Resources.resources
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\Bus Management System.exe
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\Bus Management System.pdb
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\Bus_Management_System.login.resources
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\Bus_Management_System.Ticket_purchase.resources
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\Bus_Management_System.Admin.resources
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\bin\Debug\Bus Management System.exe.config
+C:\Documents and Settings\softallybd\my documents\visual studio 2010\Projects\Bus Management System\Bus Management System\obj\x86\Debug\Bus_Management_System.splash.resources
